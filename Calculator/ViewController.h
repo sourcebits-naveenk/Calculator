@@ -8,7 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
+typedef enum {Plus, Minus, Multiply, Divide} CalculateOperation;
+
 @interface ViewController : UIViewController
+{
+    CalculateOperation operation;
+    NSString *output;
+}
+
+@property (weak, nonatomic) IBOutlet UILabel *displayResult;
 
 
 @end

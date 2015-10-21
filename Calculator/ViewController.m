@@ -117,14 +117,14 @@ BOOL ifUserISTypingInMiddleOfNumber;
             _displayResult.text = [NSString stringWithFormat:@"%.2f", [value doubleValue]+[output doubleValue]];
             break;
             case Minus:
-            _displayResult.text = [NSString stringWithFormat:@"%.2f", [value doubleValue]-[output
+            _displayResult.text = [NSString stringWithFormat:@"%.2f", [output doubleValue]-[value
                 doubleValue]];
             break;
             case Multiply:
             _displayResult.text = [NSString stringWithFormat:@"%.2f",[value doubleValue]*[output doubleValue]];
             break;
             case Divide:
-            _displayResult.text = [NSString stringWithFormat:@"%.2f",[value doubleValue]/[output doubleValue]];
+            _displayResult.text = [NSString stringWithFormat:@"%.2f",[output doubleValue]/[value doubleValue]];
             break;
     }
 }

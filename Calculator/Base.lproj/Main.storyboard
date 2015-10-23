@@ -19,14 +19,13 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bVB-og-b3Y">
                                 <rect key="frame" x="39" y="549" width="146" height="30"/>
                                 <state key="normal" title="0">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" red="1" green="0.24181111729660754" blue="0.11256000227064378" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="43" y="540" width="146" height="30"/>
                                 </variation>
                                 <connections>
-                                    <action selector="button0:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="23C-jY-ml0"/>
-                                    <action selector="numberButtonTouch:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="UeG-VH-OWe"/>
+                                    <action selector="button0:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Ljh-GH-fcg"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LYo-wo-S9v">

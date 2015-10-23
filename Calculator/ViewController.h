@@ -15,7 +15,8 @@ typedef enum {Plus, Minus, Multiply, Divide} CalculateOperation;
     CalculateOperation operation;
     NSString *output;
 }
-
+@property NSString *input1;
+@property NSString *input2;
 @property (weak, nonatomic) IBOutlet UILabel *displayResult;
 
 

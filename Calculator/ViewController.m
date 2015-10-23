@@ -108,7 +108,7 @@ BOOL ifUserISTypingInMiddleOfNumber;
     _displayResult.text = [NSString stringWithFormat:@"%.2f", 0-(input)];
 }
 
-- (IBAction)equalsButton:(id)sender
+- (IBAction)equalsButton :(id)sender
 {
     NSString *value = _displayResult.text;
     switch(operation)

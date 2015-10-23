@@ -12,6 +12,8 @@
 	<dict>
 		<key>7253701371F6B02BD4FFC577D81CABC4CC82E843</key>
 		<string>https://github.com/sourcebits-naveenk/Calculator.git</string>
+		<key>C95A1A179E4C5C4D726C647D03210EC234C7D599</key>
+		<string>https://github.com/sourcebits-naveenk/Calculator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Calculator.xcodeproj</string>
@@ -19,6 +21,8 @@
 	<dict>
 		<key>7253701371F6B02BD4FFC577D81CABC4CC82E843</key>
 		<string>../..</string>
+		<key>C95A1A179E4C5C4D726C647D03210EC234C7D599</key>
+		<string>../../Calculator</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/sourcebits-naveenk/Calculator.git</string>
@@ -33,6 +37,14 @@
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>7253701371F6B02BD4FFC577D81CABC4CC82E843</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calculator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C95A1A179E4C5C4D726C647D03210EC234C7D599</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Calculator</string>
 		</dict>

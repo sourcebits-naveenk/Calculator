@@ -14,6 +14,25 @@
 		D0EF41851BD66D9900C2DCDB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0EF41841BD66D9900C2DCDB /* Images.xcassets */; };
 		D0EF41881BD66D9900C2DCDB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0EF41861BD66D9900C2DCDB /* LaunchScreen.xib */; };
 		D0EF41941BD66D9900C2DCDB /* CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0EF41931BD66D9900C2DCDB /* CalculatorTests.m */; };
+		D0EF42071BDE46AC00C2DCDB /* Button0.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42061BDE46AC00C2DCDB /* Button0.png */; };
+		D0EF42091BDE46B200C2DCDB /* Button1.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42081BDE46B200C2DCDB /* Button1.png */; };
+		D0EF420B1BDE46B700C2DCDB /* Button2.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF420A1BDE46B700C2DCDB /* Button2.png */; };
+		D0EF420D1BDE46BB00C2DCDB /* Button3.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF420C1BDE46BB00C2DCDB /* Button3.png */; };
+		D0EF420F1BDE46BF00C2DCDB /* Button4.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF420E1BDE46BF00C2DCDB /* Button4.png */; };
+		D0EF42111BDE46C200C2DCDB /* Button5.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42101BDE46C200C2DCDB /* Button5.png */; };
+		D0EF42131BDE46C600C2DCDB /* Button6.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42121BDE46C600C2DCDB /* Button6.png */; };
+		D0EF42151BDE46CD00C2DCDB /* Button7.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42141BDE46CD00C2DCDB /* Button7.png */; };
+		D0EF42171BDE46D100C2DCDB /* Button8.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42161BDE46D100C2DCDB /* Button8.png */; };
+		D0EF42191BDE46DA00C2DCDB /* button9.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42181BDE46DA00C2DCDB /* button9.png */; };
+		D0EF421B1BDE46DF00C2DCDB /* ButtonClear.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF421A1BDE46DF00C2DCDB /* ButtonClear.png */; };
+		D0EF421D1BDE46E300C2DCDB /* ButtonDivide.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF421C1BDE46E300C2DCDB /* ButtonDivide.png */; };
+		D0EF421F1BDE471800C2DCDB /* ButtonDot.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF421E1BDE471800C2DCDB /* ButtonDot.png */; };
+		D0EF42211BDE471D00C2DCDB /* ButtonInverseSign.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42201BDE471D00C2DCDB /* ButtonInverseSign.png */; };
+		D0EF42231BDE472100C2DCDB /* ButtonMinus.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42221BDE472100C2DCDB /* ButtonMinus.png */; };
+		D0EF42251BDE472800C2DCDB /* ButtonMultiply.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42241BDE472800C2DCDB /* ButtonMultiply.png */; };
+		D0EF42271BDE472C00C2DCDB /* ButtonPlus.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42261BDE472C00C2DCDB /* ButtonPlus.png */; };
+		D0EF42291BDE492700C2DCDB /* ButtonPercentage.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF42281BDE492700C2DCDB /* ButtonPercentage.png */; };
+		D0EF422B1BDE4A9600C2DCDB /* ButtonEquals.png in Resources */ = {isa = PBXBuildFile; fileRef = D0EF422A1BDE4A9600C2DCDB /* ButtonEquals.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +59,25 @@
 		D0EF418D1BD66D9900C2DCDB /* CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0EF41921BD66D9900C2DCDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0EF41931BD66D9900C2DCDB /* CalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorTests.m; sourceTree = "<group>"; };
+		D0EF42061BDE46AC00C2DCDB /* Button0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button0.png; sourceTree = "<group>"; };
+		D0EF42081BDE46B200C2DCDB /* Button1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button1.png; sourceTree = "<group>"; };
+		D0EF420A1BDE46B700C2DCDB /* Button2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button2.png; sourceTree = "<group>"; };
+		D0EF420C1BDE46BB00C2DCDB /* Button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button3.png; sourceTree = "<group>"; };
+		D0EF420E1BDE46BF00C2DCDB /* Button4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button4.png; sourceTree = "<group>"; };
+		D0EF42101BDE46C200C2DCDB /* Button5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button5.png; sourceTree = "<group>"; };
+		D0EF42121BDE46C600C2DCDB /* Button6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button6.png; sourceTree = "<group>"; };
+		D0EF42141BDE46CD00C2DCDB /* Button7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button7.png; sourceTree = "<group>"; };
+		D0EF42161BDE46D100C2DCDB /* Button8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button8.png; sourceTree = "<group>"; };
+		D0EF42181BDE46DA00C2DCDB /* button9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button9.png; sourceTree = "<group>"; };
+		D0EF421A1BDE46DF00C2DCDB /* ButtonClear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonClear.png; sourceTree = "<group>"; };
+		D0EF421C1BDE46E300C2DCDB /* ButtonDivide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonDivide.png; sourceTree = "<group>"; };
+		D0EF421E1BDE471800C2DCDB /* ButtonDot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonDot.png; sourceTree = "<group>"; };
+		D0EF42201BDE471D00C2DCDB /* ButtonInverseSign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonInverseSign.png; sourceTree = "<group>"; };
+		D0EF42221BDE472100C2DCDB /* ButtonMinus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonMinus.png; sourceTree = "<group>"; };
+		D0EF42241BDE472800C2DCDB /* ButtonMultiply.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonMultiply.png; sourceTree = "<group>"; };
+		D0EF42261BDE472C00C2DCDB /* ButtonPlus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonPlus.png; sourceTree = "<group>"; };
+		D0EF42281BDE492700C2DCDB /* ButtonPercentage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonPercentage.png; sourceTree = "<group>"; };
+		D0EF422A1BDE4A9600C2DCDB /* ButtonEquals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonEquals.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +119,7 @@
 		D0EF41761BD66D9900C2DCDB /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				D0EF41E31BDE37F100C2DCDB /* Button Images */,
 				D0EF417B1BD66D9900C2DCDB /* AppDelegate.h */,
 				D0EF417C1BD66D9900C2DCDB /* AppDelegate.m */,
 				D0EF417E1BD66D9900C2DCDB /* ViewController.h */,
@@ -117,6 +156,32 @@
 				D0EF41921BD66D9900C2DCDB /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D0EF41E31BDE37F100C2DCDB /* Button Images */ = {
+			isa = PBXGroup;
+			children = (
+				D0EF42061BDE46AC00C2DCDB /* Button0.png */,
+				D0EF42081BDE46B200C2DCDB /* Button1.png */,
+				D0EF420A1BDE46B700C2DCDB /* Button2.png */,
+				D0EF420C1BDE46BB00C2DCDB /* Button3.png */,
+				D0EF420E1BDE46BF00C2DCDB /* Button4.png */,
+				D0EF42101BDE46C200C2DCDB /* Button5.png */,
+				D0EF42121BDE46C600C2DCDB /* Button6.png */,
+				D0EF42141BDE46CD00C2DCDB /* Button7.png */,
+				D0EF42161BDE46D100C2DCDB /* Button8.png */,
+				D0EF42181BDE46DA00C2DCDB /* button9.png */,
+				D0EF421A1BDE46DF00C2DCDB /* ButtonClear.png */,
+				D0EF421C1BDE46E300C2DCDB /* ButtonDivide.png */,
+				D0EF421E1BDE471800C2DCDB /* ButtonDot.png */,
+				D0EF42201BDE471D00C2DCDB /* ButtonInverseSign.png */,
+				D0EF42221BDE472100C2DCDB /* ButtonMinus.png */,
+				D0EF42241BDE472800C2DCDB /* ButtonMultiply.png */,
+				D0EF42261BDE472C00C2DCDB /* ButtonPlus.png */,
+				D0EF42281BDE492700C2DCDB /* ButtonPercentage.png */,
+				D0EF422A1BDE4A9600C2DCDB /* ButtonEquals.png */,
+			);
+			name = "Button Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -201,6 +266,25 @@
 			files = (
 				D0EF41831BD66D9900C2DCDB /* Main.storyboard in Resources */,
 				D0EF41881BD66D9900C2DCDB /* LaunchScreen.xib in Resources */,
+				D0EF42071BDE46AC00C2DCDB /* Button0.png in Resources */,
+				D0EF42211BDE471D00C2DCDB /* ButtonInverseSign.png in Resources */,
+				D0EF421F1BDE471800C2DCDB /* ButtonDot.png in Resources */,
+				D0EF42091BDE46B200C2DCDB /* Button1.png in Resources */,
+				D0EF42111BDE46C200C2DCDB /* Button5.png in Resources */,
+				D0EF420D1BDE46BB00C2DCDB /* Button3.png in Resources */,
+				D0EF420B1BDE46B700C2DCDB /* Button2.png in Resources */,
+				D0EF42271BDE472C00C2DCDB /* ButtonPlus.png in Resources */,
+				D0EF421D1BDE46E300C2DCDB /* ButtonDivide.png in Resources */,
+				D0EF42151BDE46CD00C2DCDB /* Button7.png in Resources */,
+				D0EF420F1BDE46BF00C2DCDB /* Button4.png in Resources */,
+				D0EF42291BDE492700C2DCDB /* ButtonPercentage.png in Resources */,
+				D0EF42231BDE472100C2DCDB /* ButtonMinus.png in Resources */,
+				D0EF42191BDE46DA00C2DCDB /* button9.png in Resources */,
+				D0EF42131BDE46C600C2DCDB /* Button6.png in Resources */,
+				D0EF421B1BDE46DF00C2DCDB /* ButtonClear.png in Resources */,
+				D0EF42251BDE472800C2DCDB /* ButtonMultiply.png in Resources */,
+				D0EF42171BDE46D100C2DCDB /* Button8.png in Resources */,
+				D0EF422B1BDE4A9600C2DCDB /* ButtonEquals.png in Resources */,
 				D0EF41851BD66D9900C2DCDB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +500,7 @@
 				D0EF41991BD66D9900C2DCDB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0EF419A1BD66D9900C2DCDB /* Build configuration list for PBXNativeTarget "CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +509,7 @@
 				D0EF419C1BD66D9900C2DCDB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
